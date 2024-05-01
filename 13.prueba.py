@@ -74,3 +74,6 @@ while True:#menu, bucle hasta break
 
 #comprobacion de subida 2/2
 print("\ncomprobacion de actualizado en github 2/2\n no toma los comentarios como actualizacion")
+#No habia abierto el archivo en la ruta que correspondia, por eso no se actualizaba, asi que
+#no dije nada, ahora actualizare esto desde la nube a mi pc
+#ultima comprobacion3/3
