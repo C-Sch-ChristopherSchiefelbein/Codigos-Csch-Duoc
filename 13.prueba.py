@@ -68,12 +68,27 @@ while True:#menu, bucle hasta break
         print("Opción incorrecta")
         llevas()
     
+
+
+
+
+
+
+
+
+
+    
 #conecte remotamente mi repositorio con Github, y lo subi ahi 
 #comando utilizados
 #git init, git commit, git add, git push -u origin main
 
 #comprobacion de subida 2/2
-print("\ncomprobacion de actualizado en github 2/2\n no toma los comentarios como actualizacion")
+#print("\ncomprobacion de actualizado en github 2/2\n no toma los comentarios como actualizacion")
+#use git push para subir archivos
+
 #No habia abierto el archivo en la ruta que correspondia, por eso no se actualizaba, asi que
 #no dije nada, ahora actualizare esto desde la nube a mi pc
 #ultima comprobacion3/3
+
+#4/4
+#USE GIT PULL para bajar los archivos, desde la terminal
