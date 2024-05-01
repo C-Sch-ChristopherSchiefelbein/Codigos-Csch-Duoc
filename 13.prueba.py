@@ -1,3 +1,9 @@
+#Programa que muestra un menu, recibe opciones como pedido
+#y desarrolla estos, para entregar una informacion especifica al final de este
+#contiene variables, listas, funciones, bucles while y condicionales
+
+
+
 print("\n******************************\nBienvenido a la app!!\n-Toma de pedidos(Rolls)\n")
 print("Se desplegaran las opciones\nUna vez las selecciones, puedes seleccionar mas, como un carrito!\n")
 total_pedido = 0#total precio pedidos
