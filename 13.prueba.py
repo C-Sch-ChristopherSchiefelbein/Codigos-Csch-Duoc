@@ -37,7 +37,7 @@ while True:#menu, bucle hasta break
                 break
             else:
                 print("Codigo no valido")
-                x = input("Ingresa 'x' para continuar sin descuento o 'menu' para volver: ").lower()
+                x = input("Ingresa 'x' para continuar sin descuento o 'menu' para volver al menu: ").lower()
                 if x == "menu":
                     continue
                 elif x == "x":
