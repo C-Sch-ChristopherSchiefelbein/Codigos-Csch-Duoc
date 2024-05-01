@@ -36,10 +36,14 @@ while True:#menu, bucle hasta break
                 print("\nHasta Pronto!")
                 break
             else:
-                print("Codigo erroneo")
-                boleta(verificar=0)
-                print("\nHasta Pronto!")
-                break
+                print("Codigo no valido")
+                x = input("Ingresa 'x' para continuar sin descuento o 'menu' para volver: ").lower()
+                if x == "menu":
+                    continue
+                elif x == "x":
+                    boleta(verificar=0)
+                    print("\nHasta Pronto!")
+                    break
     elif eleccion == 1:
         total_pedido += 4500
         Cant_articulos += 1
@@ -77,7 +81,7 @@ while True:#menu, bucle hasta break
 
 
 
-    
+
 #conecte remotamente mi repositorio con Github, y lo subi ahi 
 #comando utilizados
 #git init, git commit, git add, git push -u origin main
