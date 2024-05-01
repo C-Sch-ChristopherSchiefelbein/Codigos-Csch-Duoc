@@ -68,8 +68,9 @@ while True:#menu, bucle hasta break
         print("Opción incorrecta")
         llevas()
     
-    
+#conecte remotamente mi repositorio con Github, y lo subi ahi 
+#comando utilizados
+#git init, git commit, git add, git push -u origin main
 
-
-
-
+#comprobacion de subida 2/2
+print("\ncomprobacion de actualizado en github 2/2\n no toma los comentarios como actualizacion")
